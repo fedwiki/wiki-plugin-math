@@ -18,5 +18,6 @@
   },
   "bugs": {
     "url": "https://github.com/fedwiki/wiki-plugin-math/issues"
-  }
+  },
+  "type": "module"
 }
