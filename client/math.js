@@ -5,7 +5,7 @@
  * https://github.com/fedwiki/wiki-plugin-line/blob/master/LICENSE.txt
  */
 
-const katexVersion = '0.16'
+const katexVersion = '0.18'
 
 async function emit(div, item) {
   if (!$(`link[href='https://cdn.jsdelivr.net/npm/katex@${katexVersion}/dist/katex.min.css']`).length) {
